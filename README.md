@@ -1,6 +1,8 @@
 # Dynamic-Photovoltaic-Modeling-Tools
 These are resources for the article “A Dynamic Photovoltaic Model Incorporating Capacitive and Reverse-Bias Characteristics” by Katherine A. Kim, Chenyang Xu, Lei Jin, and Philip T. Krein published in IEEE Journal of Photovoltaics.
 
+IEEE Xplore Link: https://ieeexplore.ieee.org/document/6584777
+
 Experimental Testing
 
 Equipment Used
